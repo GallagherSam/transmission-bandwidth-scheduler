@@ -4,7 +4,7 @@ A tiny, test-driven CLI that switches your Transmission speed limits based on ti
 Built with clean seams (policy → service → client), structured logs, and both unit & live integration tests.
 
 [![CI](https://github.com/GallagherSam/transmission-bandwidth-scheduler/actions/workflows/ci.yml/badge.svg)](https://github.com/GallagherSam/transmission-bandwidth-scheduler/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/GallagherSam/transmission-bandwidth-scheduler/branch/main/graph/badge.svg)](https://codecov.io/gh/GallagherSam/transmission-bandwidth-scheduler)
+[![codecov](https://codecov.io/gh/GallagherSam/transmission-bandwidth-scheduler/branch/master/graph/badge.svg)](https://codecov.io/gh/GallagherSam/transmission-bandwidth-scheduler)
 
 ## Why?
 
