@@ -28,7 +28,7 @@ Requirements: Python >= 3.11, Transmission with RPC enabled.
 ```bash
 # clone
 git clone https://github.com/GallagherSam/transmission-bandwidth-scheduler.git
-cd <repo>
+cd transmission-bandwidth-scheduler
 
 # create venv
 python -m venv .venv
